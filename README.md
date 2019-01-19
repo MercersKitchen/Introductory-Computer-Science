@@ -6,8 +6,8 @@ Mercer's Kitchen GitHub Outline
 2. Teacher Planning: <a href="https://github.com/MercersKitchen/Computer-Science-Planning">see Computer Science Planning for more details</a>
 3. Starting a Project: <a href="">Click Here for Section Below</a>
 4. Teaching Projects and Purposes:
-   - Websites: <a href=""></a>
-   - Computer Apps in Processing-Java: <a href=""></a>
+   - Overview of Websites, including projects: <a href="https://github.com/MercersKitchen/Websites">Click Here for this Repository</a>
+   - Overview of Processing-Java, including projects: <a href="https://github.com/MercersKitchen/Processing-Java-Overview-and-Projects">Click Here for this Repository</a>
 5. Final Project: <a href=""></a>
 
 Course Outline for Queen Elizabeth High School: <a href=""></a>
@@ -63,7 +63,7 @@ Rewriting TABS to Open
 - https://github.com/MercersKitchen/Computer-Science-Planning
 - https://github.com/MercersKitchen/CS10
 - https://github.com/MercersKitchen/Websites
-- https://github.com/MercersKitchen/Computer-Science-Planning
+- https://github.com/MercersKitchen/Processing-Java-Overview-and-Projects
 - https://github.com/QEHS-ProcessingJava
 - https://github.com/QEHS-Websites
 - https://github.com/QEHS-ComputerScience
