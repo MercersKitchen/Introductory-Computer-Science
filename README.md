@@ -2,15 +2,27 @@
 Mercer's Kitchen Outline and Progressions, Hyperlinks to Projects and Exercises
 
 Mercer's Kitchen GitHub Outline
-1. Computer Setup: <a href=""></a>
-2. Teacher Planning: <a href=""></a>
-3. Starting a Project: <a href=""></a>
-4. Teaching Projects and Purposes: <a href=""></a>
-5. Final Project:
+1. Computer Setup: <a href="https://github.com/MercersKitchen/BYOD">see BYOD for more details</a>
+2. Teacher Planning: <a href="https://github.com/MercersKitchen/Computer-Science-Planning">see Computer Science Planning for more details</a>
+3. Starting a Project: <a href="">Click Here for Section Below</a>
+4. Teaching Projects and Purposes:
+   - Websites: <a href=""></a>
+   - Computer Apps in Processing-Java: <a href=""></a>
+5. Final Project: <a href=""></a>
 
 Course Outline for Queen Elizabeth High School: <a href=""></a>
 
 Purpose and Overview
+- Achieve Post-secondary entrance grades in
+  - Computer Science 30 (CS10-20-30)
+  - Advanced Placement Computer Science Principles: post-secondary first year credit (language agnostic)
+  - Advanced Placement Computer Science A: post-secondary first year credit (Language is Pure Java)
+- Write and Prototype Programs to Android Devices to control permissions and flow of personal data
+  - Introduction to App Development, Google Play, Android Studio, and other advanced Development Tools
+- Introduce GitHub, Version Control Software, integrating App Development with Websites and Promotion
+- Projects and Course work are in
+  - Computer Apps: Processing-Java & Processing-Android
+  - Websites: HTML & CSS
 
 Daily Routines
 . Tabs and Programs to Open
@@ -29,8 +41,29 @@ Understanding Where Files Live
 
 ---
 
+## General Project Development Routine, <a href="https://github.com/QEHS-ComputerScience/Project-Development-and-Resources">Click Here for more details</a>
+- Case Study, Paper and Pencil: Behaviors, Functions, and Layout using 11x17 Paper
+- Case Study, Pseudocode: Imagining the Output Space
+- Case Study, Language Functions and Algorithms to achieve "Behaviors and Functions"
+- Prototyping: split project into smaller pieces to code and test through console and then main output (usually Browser Tab in Chrome or Canvas in Processing-Java)
+- Full App: Assembled pieces and debugging
+
+---
+
 # To Include
 
 Advanced Placement Enrichment Ideas
 
+Main Projects
+
  ---
+
+Rewriting TABS to Open
+- https://github.com/MercersKitchen/Mercer-s-Kitchen-is
+- https://github.com/MercersKitchen/Computer-Science-Planning
+- https://github.com/MercersKitchen/CS10
+- https://github.com/MercersKitchen/Websites
+- https://github.com/MercersKitchen/Computer-Science-Planning
+- https://github.com/QEHS-ProcessingJava
+- https://github.com/QEHS-Websites
+- https://github.com/QEHS-ComputerScience
