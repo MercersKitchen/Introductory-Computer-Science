@@ -56,6 +56,22 @@ Advanced Placement Enrichment Ideas
 
 Main Projects
 
+Lessons to Create: IF, FOR (iterations known), WHILE (iterations unknown)
+- CS10: using it as a tool, counting patterns
+  - Counting Examples and Concepts
+    - Forwards
+    - Backwards
+    - Arithmetic
+    - Geometric
+    - Squares
+    - Combinations
+  - Cascading Chess Board, nested FOR
+  - Double IF = AND
+  - Console output to whether code makes it into IF
+  - Using operators and shortcuts
+- CS20: using it as an application to read and write arrays
+- CS30: FOR-EACH Loop
+
  ---
 
 Rewriting TABS to Open
