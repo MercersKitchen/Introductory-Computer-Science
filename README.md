@@ -72,6 +72,22 @@ Lessons to Create: IF, FOR (iterations known), WHILE (iterations unknown)
 - CS20: using it as an application to read and write arrays
 - CS30: FOR-EACH Loop
 
+Friday Do Now Review Question (introduction to memorizing Java and JavaScript, for AP CSA and Skills Alberta)
+- True False Questions (Answered to Google Forms), See Barron's Flash Cards
+- Simple Statements (Answered to Exit Slip), see Barron's Flash Cards
+- Calculation Questions, see Barron's Flash Cards
+  - All levels, general trivia
+  - All levels, number conversions
+  - CS10: Integer Class functions: max & min values, random
+  - CS10: Arithmetic Statements, Relational Statements, Compound Statements
+  - CS10: FOR & WHILE LOOPS, including Nested FOR: number of execution times, variable skip-counting
+  - CS20: Array Questions
+  - CS30: String Functions
+  - CS30: `compare.To` Questions
+  - CS30: Algorithm Comparison Questions
+  - CS30: 
+
+
  ---
 
 Rewriting TABS to Open
