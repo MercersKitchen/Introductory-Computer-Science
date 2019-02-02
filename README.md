@@ -76,17 +76,17 @@ Friday Do Now Review Question (introduction to memorizing Java and JavaScript, f
 - True False Questions (Answered to Google Forms), See Barron's Flash Cards
 - Simple Statements (Answered to Exit Slip), see Barron's Flash Cards
 - Calculation Questions, see Barron's Flash Cards
-  - All levels, general trivia
-  - All levels, number conversions
-  - CS10: Integer Class functions: max & min values, random
+  - All levels, General Trivia
+  - All levels, Number Conversions
   - CS10: Arithmetic Statements, Relational Statements, Compound Statements
-  - CS10: FOR & WHILE LOOPS, including Nested FOR: number of execution times, variable skip-counting
+  - CS10: Integer Class Search Functions (max & min values, random, etc.)
+  - CS10: FOR & WHILE LOOPS, including Nested FOR (number of execution times, variable skip-counting)
   - CS20: Array Questions
   - CS30: String Functions
   - CS30: `compare.To` Questions
-  - CS30: Algorithm Comparison Questions
-  - CS30: 
-
+  - CS30: Search Algorithm Comparison Questions
+- Summary of all Cue Cards, Algorithm Analysis (only done in AP CS 35)
+Add to these a list of "Describe these Functions"
 
  ---
 
