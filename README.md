@@ -56,21 +56,10 @@ Understanding Where Files Live
 Advanced Placement Enrichment Ideas
 
 Main Projects
-- General Progressions, in Computer Science Planning: <a href="">Click Here</a>
+- General Progressions, in Computer Science Planning: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects">Click Here</a>
 
 Lessons to Create: IF, FOR (iterations known), WHILE (iterations unknown)
-- CS10: using it as a tool, counting patterns
-  - Counting Examples and Concepts
-    - Forwards
-    - Backwards
-    - Arithmetic
-    - Geometric
-    - Squares
-    - Combinations
-  - Cascading Chess Board, nested FOR
-  - Double IF = AND
-  - Console output to whether code makes it into IF
-  - Using operators and shortcuts
+- CS10: using it as a tool
 - CS20: using it as an application to read and write arrays
 - CS30: FOR-EACH Loop
 
