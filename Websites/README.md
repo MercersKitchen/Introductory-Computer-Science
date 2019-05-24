@@ -1,5 +1,5 @@
-# Blank
-Blank
+# Introductory Websites
+Creating Static Pages using HTML and CSS
 
 **UNDER CONSTRUCTION**
 
@@ -7,6 +7,9 @@ Blank
 ---
 
 # Ideas to Include
+
+https://github.com/MercersKitchen/Websites
+- Hosting a Server on a RPi
 
 
 ---
