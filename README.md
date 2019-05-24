@@ -4,13 +4,14 @@ Mercer's Kitchen Outline and Progressions, Hyperlinks to Projects and Exercises
 Mercer's Kitchen GitHub Outline
 1. Computer Setup: <a href="https://github.com/MercersKitchen/BYOD">see BYOD for more details</a>
 2. Teacher Planning: <a href="https://github.com/MercersKitchen/Computer-Science-Planning">see Computer Science Planning for more details</a>
-3. Starting a Project: <a href="">Click Here for a modified Advanced Placement Computer Science Principles Planning Document</a>
+3. Starting a Project: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Introductory%20Presentation%20Guidance">Click Here for a modified Advanced Placement Computer Science Principles Planning Document</a>
 4. Teaching Projects and Purposes:
    - Overview of Websites, including projects: <a href="https://github.com/MercersKitchen/Websites">Click Here for this Repository</a>
    - Overview of Processing-Java, including projects: <a href="https://github.com/MercersKitchen/Processing-Java-Overview-and-Projects">Click Here for this Repository</a>
-5. Final Project: <a href=""></a>
+5. Final Project: <a href="https://github.com/MercersKitchen/Device-Sideloading-Android">Side Loading to an Android Device</a>
 
-Course Outline for Queen Elizabeth High School: <a href=""></a>
+Course Outline for Queen Elizabeth High School: <a href="https://drive.google.com/drive/folders/16qE4-NcOsMv1rXIXTq3Zpf5xklJhHL5G?usp=sharing">Mr. Mercer's Publically Available Course Outlines</a>
+- Teacher Only Course Outlines: <a href="https://drive.google.com/drive/folders/1pEr3PWr12lc5OEj-lAOXBSp5x6kT2ELK">Talk with Mr. Mercer if you cannot access the current outline</a>
 
 Purpose and Overview
 - Achieve Post-secondary entrance grades in
@@ -55,6 +56,7 @@ Understanding Where Files Live
 Advanced Placement Enrichment Ideas
 
 Main Projects
+- General Progressions, in Computer Science Planning: <a href="">Click Here</a>
 
 Lessons to Create: IF, FOR (iterations known), WHILE (iterations unknown)
 - CS10: using it as a tool, counting patterns
