@@ -4,7 +4,7 @@ Mercer's Kitchen Outline and Progressions, Hyperlinks to Projects and Exercises
 Mercer's Kitchen GitHub Outline
 1. Computer Setup: <a href="https://github.com/MercersKitchen/BYOD">see BYOD for more details</a>
 2. Teacher Planning: <a href="https://github.com/MercersKitchen/Computer-Science-Planning">see Computer Science Planning for more details</a>
-3. Starting a Project: <a href="">Click Here for Section Below</a>
+3. Starting a Project: <a href="">Click Here for a modified Advanced Placement Computer Science Principles Planning Document</a>
 4. Teaching Projects and Purposes:
    - Overview of Websites, including projects: <a href="https://github.com/MercersKitchen/Websites">Click Here for this Repository</a>
    - Overview of Processing-Java, including projects: <a href="https://github.com/MercersKitchen/Processing-Java-Overview-and-Projects">Click Here for this Repository</a>
