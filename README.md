@@ -52,12 +52,19 @@ Review Projects for the Course
 - Use Google Images to Develop Ideas
 - Diagram end-user experience and features
 
-Introductions to GUI 
+Introductions to GUI "Monitor Geometry Algorithms", <a href="https://github.com/QEHS-ComputerScience/Monitor-Geometry-Algorithm">Click Here</a>
+
 Website Layouts, <a href=""></a>
 
 
 *Future Ideas*
-- Developing Boilerplate in Processing-Java
+- Developing Boilerplate in Processing-Java: Static to Dynamic
+- Drawing 2D Shapes (Tangrams Puzzle in Drawing Program)
+- Measles Project? Understanding DRAW Loop
+- Quit Button?
+
+https://github.com/QEHS-ComputerScience/Monitor-Geometry-Algorithm
+
 
 ---
 
