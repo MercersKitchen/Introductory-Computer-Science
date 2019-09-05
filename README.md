@@ -41,16 +41,23 @@ Course Outline for Queen Elizabeth High School: <a href="https://drive.google.co
 
 ## Introduction to Case Studies
 
+
 #### Overview of Main Teaching Projects
 
 Computer Apps, <a href="">https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Introductory%20Projects.txt</a>
 - Planning these and will come back to them
-- Extra time is meant to enable creativity 
+- Extra time is meant to enable creativity
 
+Review Projects for the Course
+- Use Google Images to Develop Ideas
+- Diagram end-user experience and features
+
+Introductions to GUI 
 Website Layouts, <a href=""></a>
--
+
 
 *Future Ideas*
+- Developing Boilerplate in Processing-Java
 
 ---
 
