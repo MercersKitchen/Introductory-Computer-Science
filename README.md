@@ -1,44 +1,60 @@
-# Introductory Computer Science - Getting Ready for September 2019
+# Introductory Computer Science - Computer Science 10, Including Advanced Placement
 Mercer's Kitchen Outline and Progressions, Hyperlinks to Projects and Exercises
 
-Mercer's Kitchen GitHub Outline
-1. Computer Setup: <a href="https://github.com/MercersKitchen/BYOD">see BYOD for more details</a>
-2. Teacher Planning: <a href="https://github.com/MercersKitchen/Computer-Science-Planning">see Computer Science Planning for more details</a>
-3. Starting a Project: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Introductory%20Presentation%20Guidance">Click Here for a modified Advanced Placement Computer Science Principles Planning Document</a>
-4. Teaching Projects and Purposes:
-   - Overview of Websites, including projects: <a href="https://github.com/MercersKitchen/Websites">Click Here for this Repository</a>
-   - Overview of Processing-Java, including projects: <a href="https://github.com/MercersKitchen/Processing-Java-Overview-and-Projects">Click Here for this Repository</a>
-5. Final Project: <a href="https://github.com/MercersKitchen/Device-Sideloading-Android">Side Loading to an Android Device</a>
-
-Course Outline for Queen Elizabeth High School: <a href="https://drive.google.com/drive/folders/16qE4-NcOsMv1rXIXTq3Zpf5xklJhHL5G?usp=sharing">Mr. Mercer's Publically Available Course Outlines</a>
-- Teacher Only Course Outlines: <a href="https://drive.google.com/drive/folders/1pEr3PWr12lc5OEj-lAOXBSp5x6kT2ELK">Talk with Mr. Mercer if you cannot access the current outline</a>
-
-Purpose and Overview
-- Achieve Post-secondary entrance grades in
-  - Computer Science 30 (CS10-20-30)
-  - Advanced Placement Computer Science Principles: post-secondary first year credit (language agnostic)
-  - Advanced Placement Computer Science A: post-secondary first year credit (Language is Pure Java)
-- Write and Prototype Programs to Android Devices to control permissions and flow of personal data
-  - Introduction to App Development, Google Play, Android Studio, and other advanced Development Tools
-- Introduce GitHub, Version Control Software, integrating App Development with Websites and Promotion
+**Purpose of this Course**'
+- Physical Computing and Android Devices: Write and Prototype Programs to Android Devices to control permissions and flow of personal data
+- Introduction to App Development, Google Play, Android Studio, and other advanced Development Tools
+- Introduce GitHub, Version Control Software, integrating App Development with Websites and Promotion ("Where do files live?")
 - Projects and Course work are in
   - Computer Apps: Processing-Java & Processing-Android
   - Websites: HTML & CSS
+- Post-secondary entrance grades:
+  - Computer Science 30 (CS10-20-30)
+  - Advanced Placement Computer Science Principles (language agnostic)
+  - Advanced Placement Computer Science A (Language is Pure Java)
 
-Daily Routines
-. Tabs and Programs to Open
-  - GitHub Desktop
+Mercer's Kitchen GitHub Outline
+1. Computer Setup
+   - Classroom Environment & Computer Environment: <a href="https://github.com/MercersKitchen/Computer-Science-Planning">see Computer Science Planning for more details</a>
+   - <a href="https://github.com/MercersKitchen/BYOD">see BYOD for more details</a>
+2. Starting a Project: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Introductory%20Presentation%20Guidance">
+3. Click Here for a modified Advanced Placement Computer Science Principles Planning Document</a>
+4. . Teaching Projects and Purposes:
+   - Overview of Websites, including projects: <a href="https://github.com/MercersKitchen/Websites">Click Here for this Repository</a>
+   - Overview of Processing-Java, including projects: <a href="https://github.com/MercersKitchen/Processing-Java-Overview-and-Projects">Click Here for this Repository</a>
+5. . Final Project: <a href="https://github.com/MercersKitchen/Device-Sideloading-Android">Side Loading to an Android Device</a>
+
+Daily Routines, Tabs and Programs to Open
   - Chrome
-    - Schoolzone
-    - Gmail: Check it
-    - Google Classroom: Look at the learning outcomes and hyperlinks
-    - Mercer's Kitchen Course Splash Page
-    - Student's Personal GitHub repositories
-  - IDE for Program work
+  - Schoolzone for Login & EMail (check email every day)
+  - Google Classroom for learning outcomes and hyperlinks
+  - GitHub Desktop (MercersKitchen & Personal Accounts)
+  - Specific IDEs
 
-Understanding Where Files Live
-- Main User Interface: GitHub Desktop
-- Files live on C-Drive of Computer in a GitHub Folder (option, "My Documents" in F-Drive)
+---
+
+Course Outline for Queen Elizabeth High School: <a href="https://drive.google.com/drive/folders/1LHADxLcS15QR3waLAjLSxxIXAZ0q7y33">
+
+---
+
+# Progressions of Learning
+
+## Introduction to Case Studies
+
+#### Overview of Main Teaching Projects
+
+Computer Apps, <a href="">https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Introductory%20Projects.txt</a>
+- Planning these and will come back to them
+- Extra time is meant to enable creativity 
+
+Website Layouts, <a href=""></a>
+-
+
+*Future Ideas*
+
+---
+
+# UNDER CONSTRUCTION
 
 ---
 
@@ -80,6 +96,10 @@ Friday Do Now Review Question (introduction to memorizing Java and JavaScript, f
 Add to these a list of "Describe these Functions"
 
  ---
+
+# Teacher Only Files
+
+Teacher Only Course Outlines: <a href="https://drive.google.com/drive/folders/1pEr3PWr12lc5OEj-lAOXBSp5x6kT2ELK">Talk with Mr. Mercer if you cannot access the current outline</a>
 
 Rewriting TABS to Open
 - https://github.com/MercersKitchen/Mercer-s-Kitchen-is
