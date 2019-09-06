@@ -19,7 +19,7 @@ Mercer's Kitchen GitHub Outline
    - <a href="https://github.com/MercersKitchen/BYOD">see BYOD for more details</a>
 2. Starting a Project: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Introductory%20Presentation%20Guidance">
 Click Here for a modified Advanced Placement Computer Science Principles Planning Document</a>
-3. . Teaching Projects and Purposes:
+3. Teaching Projects and Purposes:
    - Overview of Websites, including projects: <a href="https://github.com/MercersKitchen/Websites">Click Here for this Repository</a>
    - Overview of Processing-Java, including projects: <a href="https://github.com/MercersKitchen/Processing-Java-Overview-and-Projects">Click Here for this Repository</a>
 4. Final Project: <a href="https://github.com/MercersKitchen/Device-Sideloading-Android">Side Loading to an Android Device</a>
@@ -55,10 +55,16 @@ Introductions to GUI "Monitor Geometry Algorithms", <a href="https://github.com/
 
 Website Layouts, <a href="https://github.com/MercersKitchen/Webpages-Sites">click here for links to all webpage-site projects</a>
 - Students must research and bring in content for these projects
-- Who am I Project, <a href="https://github.com/QEHS-Websites/Who-Am-I">click here</a>
-- Essay Project, <a href="https://github.com/QEHS-Websites/Essay-Project">click here</a>
+- Who am I Project, <a href="https://github.com/QEHS-Websites/Who-Am-I">click here</a>, see Checklist for Content Creation
+- Essay Project, <a href="https://github.com/QEHS-Websites/Essay-Project">click here</a>, see see Checklist for Content Creation
 
 *Future Ideas*
+- Website Projects
+  - 3 Weeks for Both Projects
+  - Who am I
+  - Essay Project 
+  - Create Repositories and Templates (Mercer's Kitchen and Webpages-Sites), introductory Boilerplate, Single Webpage
+  - Lessons specific to individual Projects (Lesson Links in Webpage-Sites)
 - Developing Boilerplate in Processing-Java: Static to Dynamic
 - Drawing 2D Shapes (Tangrams Puzzle in Drawing Program)
 - Measles Project? Understanding DRAW Loop
