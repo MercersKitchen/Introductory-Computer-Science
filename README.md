@@ -38,6 +38,9 @@ Course Outline for Queen Elizabeth High School: <a href="https://drive.google.co
 ---
 
 # Progressions of Learning
+- Introduction to Case Studies, <a href="">URL Under Construction</a>
+- Webpage Layout and Promotion, <a href="">URL Under Construction</a>
+Note: add in-doc hyperlinks to all the above
 
 ## Introduction to Case Studies
 
@@ -56,15 +59,18 @@ Introductions to GUI "Monitor Geometry Algorithms", <a href="https://github.com/
 Website Layouts, <a href="https://github.com/MercersKitchen/Webpages-Sites">click here for links to all webpage-site projects</a>
 - Students must research and bring in content for these projects
 - Who am I Project, <a href="https://github.com/QEHS-Websites/Who-Am-I">click here</a>, see Checklist for Content Creation
-- Essay Project, <a href="https://github.com/QEHS-Websites/Essay-Project">click here</a>, see see Checklist for Content Creation
+- Essay Project, <a href="https://github.com/QEHS-Websites/Essay-Project">click here</a>, see Checklist for Content Creation
+
+## Webpage Layout and Promotion
+- 3 Weeks for Both Projects
+- Who am I
+- Essay Project
+- Create Repositories and Templates (Mercer's Kitchen and Webpages-Sites), introductory Boilerplate, Single Webpage
+- Lessons specific to individual Projects (Lesson Links in Webpage-Sites)
 
 *Future Ideas*
-- Website Projects
-  - 3 Weeks for Both Projects
-  - Who am I
-  - Essay Project 
-  - Create Repositories and Templates (Mercer's Kitchen and Webpages-Sites), introductory Boilerplate, Single Webpage
-  - Lessons specific to individual Projects (Lesson Links in Webpage-Sites)
+- See Website Lessons Here: https://github.com/MercersKitchen/CS10/tree/master/Websites
+
 - Developing Boilerplate in Processing-Java: Static to Dynamic
 - Drawing 2D Shapes (Tangrams Puzzle in Drawing Program)
 - Measles Project? Understanding DRAW Loop
