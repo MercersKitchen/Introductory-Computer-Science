@@ -53,8 +53,8 @@ Review Projects for the Course
 
 Introductions to GUI "Monitor Geometry Algorithms", <a href="https://github.com/QEHS-ComputerScience/Monitor-Geometry-Algorithm">Click Here</a>
 
-Website Layouts, <a href=""></a>
-
+Website Layouts, <a href="https://github.com/MercersKitchen/Webpages-Sites">click here for links to all webpage-site projects</a>
+- Students must research and bring in content for these projects
 
 *Future Ideas*
 - Developing Boilerplate in Processing-Java: Static to Dynamic
@@ -64,11 +64,6 @@ Website Layouts, <a href=""></a>
 
 https://github.com/QEHS-ComputerScience/Monitor-Geometry-Algorithm
 
-
----
-
-# UNDER CONSTRUCTION
-
 ---
 
 ## General Project Development Routine, <a href="https://github.com/QEHS-ComputerScience/Project-Development-and-Resources">Click Here for more details</a>
@@ -77,6 +72,19 @@ https://github.com/QEHS-ComputerScience/Monitor-Geometry-Algorithm
 - Case Study, Language Functions and Algorithms to achieve "Behaviors and Functions"
 - Prototyping: split project into smaller pieces to code and test through console and then main output (usually Browser Tab in Chrome or Canvas in Processing-Java)
 - Full App: Assembled pieces and debugging
+
+---
+
+## Website Projects
+
+**Who Am I**, <a href=""></a>
+
+**Essay Project**, <a href=""></a>
+
+---
+
+# UNDER CONSTRUCTION
+- Next: computer Apps
 
 ---
 
