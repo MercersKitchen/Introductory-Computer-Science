@@ -1,6 +1,12 @@
 # Introductory Computer Science - Computer Science 10, Including Advanced Placement
 Mercer's Kitchen Outline and Progressions, Hyperlinks to Projects and Exercises
 
+---
+
+Skip to Progressions, <a href="https://github.com/MercersKitchen/Introductory-Computer-Science#progressions-of-learning">Click Here</a>
+
+---
+
 **Purpose of this Course**
 - Physical Computing and Android Devices: Write and Prototype Programs to Android Devices to control permissions and flow of personal data
 - Introduction to App Development, Google Play, Android Studio, and other advanced Development Tools
