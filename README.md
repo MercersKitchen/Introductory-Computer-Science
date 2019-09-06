@@ -33,7 +33,7 @@ Daily Routines, Tabs and Programs to Open
 
 ---
 
-Course Outline for Queen Elizabeth High School: <a href="https://drive.google.com/drive/folders/1LHADxLcS15QR3waLAjLSxxIXAZ0q7y33">
+Course Outline for Queen Elizabeth High School: <a href="https://drive.google.com/drive/folders/1LHADxLcS15QR3waLAjLSxxIXAZ0q7y33">Click Here</a>
 
 ---
 
@@ -43,7 +43,7 @@ Course Outline for Queen Elizabeth High School: <a href="https://drive.google.co
 
 #### Overview of Main Teaching Projects
 
-Computer Apps, <a href="">https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Introductory%20Projects.txt</a>
+Computer Apps, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Introductory%20Projects.txt">Click Here</a>
 - Planning these and will come back to them
 - Extra time is meant to enable creativity
 
