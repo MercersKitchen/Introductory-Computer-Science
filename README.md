@@ -18,11 +18,11 @@ Mercer's Kitchen GitHub Outline
    - Classroom Environment & Computer Environment: <a href="https://github.com/MercersKitchen/Computer-Science-Planning">see Computer Science Planning for more details</a>
    - <a href="https://github.com/MercersKitchen/BYOD">see BYOD for more details</a>
 2. Starting a Project: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Introductory%20Presentation%20Guidance">
-3. Click Here for a modified Advanced Placement Computer Science Principles Planning Document</a>
-4. . Teaching Projects and Purposes:
+Click Here for a modified Advanced Placement Computer Science Principles Planning Document</a>
+3. . Teaching Projects and Purposes:
    - Overview of Websites, including projects: <a href="https://github.com/MercersKitchen/Websites">Click Here for this Repository</a>
    - Overview of Processing-Java, including projects: <a href="https://github.com/MercersKitchen/Processing-Java-Overview-and-Projects">Click Here for this Repository</a>
-5. . Final Project: <a href="https://github.com/MercersKitchen/Device-Sideloading-Android">Side Loading to an Android Device</a>
+4. Final Project: <a href="https://github.com/MercersKitchen/Device-Sideloading-Android">Side Loading to an Android Device</a>
 
 Daily Routines, Tabs and Programs to Open
   - Chrome
@@ -40,7 +40,6 @@ Course Outline for Queen Elizabeth High School: <a href="https://drive.google.co
 # Progressions of Learning
 
 ## Introduction to Case Studies
-
 
 #### Overview of Main Teaching Projects
 
