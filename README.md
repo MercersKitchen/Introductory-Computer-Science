@@ -56,6 +56,7 @@ Introductions to GUI "Monitor Geometry Algorithms", <a href="https://github.com/
 Website Layouts, <a href="https://github.com/MercersKitchen/Webpages-Sites">click here for links to all webpage-site projects</a>
 - Students must research and bring in content for these projects
 - Who am I Project, <a href="https://github.com/QEHS-Websites/Who-Am-I">click here</a>
+- Essay Project, <a href="https://github.com/QEHS-Websites/Essay-Project">click here</a>
 
 *Future Ideas*
 - Developing Boilerplate in Processing-Java: Static to Dynamic
