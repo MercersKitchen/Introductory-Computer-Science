@@ -1,0 +1,7 @@
+Image Download
+draw rect
+draw image
+calcualte coordinates wtih ratios as fractions or decimals, where appropriate
+- aspect ratio
+
+introduce arrays afterward with simlarly named variables

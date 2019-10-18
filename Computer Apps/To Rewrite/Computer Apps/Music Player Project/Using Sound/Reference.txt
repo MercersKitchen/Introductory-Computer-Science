@@ -1,0 +1,4 @@
+Sound Library is Broken as of 20181125
+Blogs refer to WINDOWS 10 ArrayOutOfBounds Error, expereinced
+Reason is Sound is Beta currently
+Solution is to use Minim

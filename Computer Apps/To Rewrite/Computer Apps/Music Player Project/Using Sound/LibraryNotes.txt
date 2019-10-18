@@ -1,0 +1,68 @@
+Access Special Sound Functions
+Sketch / Import Library / Add Library
+Search for Sound
+import processing.sound.*; 
+  //Imports entire class
+  //Enables sound library in sketch
+  //Adds the library to any exports (run "anywhere")
+
+Other libraries that are useful
+- Minim (not official to Processing, thus might go away)
+  Still has Youtube videos, etc
+- Cassette: sound APIs of Processing for Android
+
+Get at least three songs and three sound effects: Youtube Audio Library
+Royalty Free Music
+https://www.youtube.com/audiolibrary/music
+https://www.youtube.com/audiolibrary/soundeffects
+Note: all programs now should have sound effects
+
+All Music needs to be in data file
+- as unique memory locations (not moved but copied if downloaded elsewhere)
+
+Sound Library Information
+- See Libraries in Processing
+  https://processing.org/reference/libraries/sound/index.html
+- Sound Tutorial
+  Contains Sample Code to experiment with
+  https://processing.org/tutorials/sound/
+
+Summary of Lesson: Interactions with the Console
+NOTE: any GUI is student labour, once we know the variables and functions 
+      work, we use them in the canvas with other lessons we know
+Sound Library: https://processing.org/reference/libraries/sound/index.html
+- Explore Sound File
+- Optional
+  WhiteNoise
+  PinkNoise
+  BorwnNoise
+SoundFile: https://processing.org/reference/libraries/sound/SoundFile.html
+- introduction to loading a sound file
+Duration: https://processing.org/reference/libraries/sound/SoundFile_duration_.html
+- Returns the duration of the sound file
+- variable is float
+Play: https://processing.org/reference/libraries/sound/SoundFile_play_.html
+- Plays the sound file once
+- Able to pass mutliple parameters
+- Introduction is rate() and amp()
+Stop: https://processing.org/reference/libraries/sound/SoundFile_stop_.html
+Loop: https://processing.org/reference/libraries/sound/SoundFile_loop_.html
+Jump: https://processing.org/reference/libraries/sound/SoundFile_jump_.html
+- Jump to a specific place in the song file
+- Use the j|J button and keyboard listener to activate this
+- parameter is time as a float in seconds
+- "Button might jump ahaead 30 seconds
+- Able to program "resolution" of jumps 
+- NOTE: able to take a specific song or sound effect and use this code to play
+  only a certain part, like a ring tone, until able to make a snipit of a 
+  sound file
+Advanced: set()
+- https://processing.org/reference/libraries/sound/SoundFile_set_.html
+- Introduces and uses mulitple parameters at once
+- rate()
+- amp()
+
+Useful Combinations
+- songs[currentSong].amp(vol); int currentSong=0; //float vol = 0.9;
+- songs[currentSong].play();
+- songs[currentSong].play();

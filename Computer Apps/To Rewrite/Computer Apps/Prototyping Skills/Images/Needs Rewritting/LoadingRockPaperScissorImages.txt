@@ -1,0 +1,22 @@
+// AI, second person, Image
+rect (width*1/4, height*2/4, (width*3/4)/2, (height*1/4));
+PImage [] rock = new PImage[3];
+PImage [] paper = new PImage[3];
+PImage [] scissor = new PImage[3];
+// Note: because of quotes cannot FOR Loop
+rock[0] = loadImage("rock-01.jpg");
+rock[1] = loadImage("rock-02.jpg");
+rock[2] = loadImage("rock-03.jpg");
+paper[0] = loadImage("paper1.jpg");
+paper[1] = loadImage("paper2.jpg");
+paper[2] = loadImage("paper 3.jpg");
+scissor[0] = loadImage("scissor1.jpg");
+scissor[1] = loadImage("scissor2.jpg");
+scissor[2] = loadImage("scissor3.jpeg");
+image(rock[0], width*1/4, height*2/4, (width*3/4)/2, height*1/4);
+// Note: Issue with Aspect Ratio
+
+// Player Image
+rect ((width*1/4)+(width*3/4)/2, (height*2/4), (width*3/4)/2, height*1/4);
+image(rock[1], (width*1/4)+(width*3/4)/2, (height*2/4), (width*3/4)/2, height*1/4);
+// Note: Issue with Aspect Ratio

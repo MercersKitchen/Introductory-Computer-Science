@@ -1,0 +1,53 @@
+Intoduce Arrays as a way of doing variables by name
+- Grade 10 option is only by name
+
+Show students webresizer
+- deals with image pixel size
+- deals with dimension
+- helps with aspect ration
+
+http://webresizer.com/
+- note: has ads, do not click on them
+
+Tutorial
+- https://www.youtube.com/watch?v=ESML8pANBTM
+- See Google Drive: https://drive.google.com/drive/folders/1DWIDuqXnybYu54LxQWN8enymB_pelMm2
+
+Beginning Notes
+Common Image Scripts
+color blue = #0E43C4;
+background(blue);
+loading images to arrays (odd numbers only, including zero)
+load scale of image to even indexes (example of data structure)
+PImage[] pic = new PImage[3]; //3 is index, changable; pic.length
+PImage pic0, pic1, pic2; //Good intermediate understanding
+//Be rediculaous and try to make 25 variable name
+pic[0] = loadImage("ObiOneThumb.jpg");
+image(pic1, 0,0,width,height/4); //Same as rect() layout
+Array minilesson: 
+Need mini lesson on aspect rations
+Need Padding (inside element or rectangle), as variable, similar to rect in rect like the quitButton
+Need Spacing (outisde element or rectangle), easy to move around if spacing rectangels
+Need scale as mulitpler of image to fit inside the rect
+Need Aspect Ration Calculator (compare incoming image to width and height of rect
+- if bigger, use FOR Loop find multiplier
+- when fits, save multiplier to correct index-even matched number
+
+Extra Scripts
+tint() & noTint() to reset default
+
+Extending Lessons
+Create a chessboard - nested FOR Loops
+When printing images to a screen, able to use a FOR Loop if "grid coordinates are known
+
+Picking from a random array element
+int c5 = (int)random(0, 4);); //random returns a float, int truncates it (test this)
+or 
+int c5 = (int)random(pic.length); //does not pick the last one, does include zero
+
+Image Calculator
+- no turning images
+- scale a length, figure percent
+- scale height, figure percent
+- compare scales, find larger
+- remulitple with larger scale

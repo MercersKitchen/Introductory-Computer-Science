@@ -1,0 +1,31 @@
+Need
+Gather code reviewed in 2D Shapes
+Discuss vocabulary and ideas with code
+Create one-page handouts for these
+See Alternate Cue Cards Assignment for Coding Concepts
+- In SP2 Final Assignment (leads to Intermediate CS)
+
+For Example
+2D Images PsuedoCode to full program
+- rect(), ellipse (), line()
+- size, width, height, operations to get coordinates
+- fullScreen(), Print(), displayWidth, displayHeight, fractions & ratios
+- fill(), noFill(), noStroke(), stroke()
+
+Concepts with these examples
+- Drawing 2d Shapes creating a form
+- Layering 2D Shapes to create perspective or action
+- Printing text in rectangles (i.e. DIVs in a webpage)
+- AUtomatically sizing font for text in a webpage
+- Creating mouse-click buttons with hover-over effects, like a quit button
+
+- Inserting images with and without aspect ration
+- Using effects like tint and transparency
+
+Images (needs WHILE Loops, FOR Loops gets too complicated
+- what are the calcualtor steps to make these calculations
+  to make the image bigger or smaller
+- these steps are repeated
+- these repeatitions are a FOR Loop
+- Students do this all the time with Guess and Check
+

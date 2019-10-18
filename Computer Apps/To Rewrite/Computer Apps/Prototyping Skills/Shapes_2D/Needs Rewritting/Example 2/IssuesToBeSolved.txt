@@ -1,0 +1,9 @@
+Measles Issues: draw from center
+- Measles must stay out of the eyes, nose and mouth (even half a measles)
+- Measles must be fully on the face
+- Measles must stay out of the background area and stay only on the face
+
+- Coordinate must be the diameter away from the edges of the canvas &
+  2d Image for Body part
+  body parts
+- Printing them only on the face: introduction to buttons

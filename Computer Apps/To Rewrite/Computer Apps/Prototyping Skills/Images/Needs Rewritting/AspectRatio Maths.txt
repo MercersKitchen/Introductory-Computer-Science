@@ -1,0 +1,29 @@
+Need to complete the Aspect Ratio maths before are able to 
+automate code
+
+CAUTION: FOR Loops do calculations after the condition
+Note: the condition must stop any further calculations
+
+Use WHILE Loops, not FOR Loops
+- Increment at the end of the WHILE Loop
+- Condition is at the end of the Loop
+
+General Algorithm
+1. Find dimensions of image, record
+2. Find dimensions of canvas or rect() to put image into
+3. Divide to get Scale Enlargement or Reduction
+   - Canvas or rect() / Image
+   - Returns number that "makes sense" larger than 1 to enlarge,
+     smaller to reduce
+   - Note: computers do not store decimals very well, creates memory issues
+4. Pick the scale
+   - Elementary: enlarge, pick smaller number; reduction, pick larger
+   - Junior High: pick the number closer to one using subtraction (-'ves)
+   - High School: use abs funtion & always pick the smaller positive #
+5. Create scaled dimenions
+6. Test to see if they fit
+7. If not, reduce by a percentage using a WHILE Loop
+   Note: FOR Loop tests and then does another calculation for reduction
+   WHILE does not, tests at the end
+6. Print Image
+
