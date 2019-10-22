@@ -23,7 +23,7 @@ Progressions
 - First Week Projects
   - Quit Button, if decision("Hover-over" will be done later) & introducing grid interpretation of screen
   - Canvas, size()
-  - Happy Face Project, fullScreen(), GUI Ratios and Layering 
+  - Happy Face Project, fullScreen(), GUI Ratios and Layering
 
 
 Future Ideas
@@ -32,6 +32,8 @@ Future Ideas
 ---
 
 # To Include
+- Happy Face, size() to fullsize()
+- Happy Face Measles
 
 
 ---
