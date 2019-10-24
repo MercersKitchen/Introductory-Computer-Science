@@ -16,7 +16,6 @@ int mouthLeftY = height*3/4;
 int mouthRigthX = width*3/4;
 int mouthRightY = mouthLeftY;
 
-
 // Face - Circle
 ellipse(width*1/2, height*1/2, width, height);
 
