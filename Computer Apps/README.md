@@ -34,6 +34,8 @@ Future Ideas
 # To Include
 - Happy Face, size() to fullsize()
 - Happy Face Measles
+- Happy Face Measles with Button Code (need to case study first, verify with code)
+- 
 
 
 ---
