@@ -32,13 +32,20 @@ void setup() {
   line(mouthLeftX, mouthLeftY, mouthRigthX, mouthRightY);
 
   //Optional: ears, fill(),
+
+  //noLoop();
 }
 
 void draw() {
   color red = #FF0303;
   fill(red);
   noStroke(); //outline of measles
-  ellipse(random(width), random(height), measleDiameter, measleDiameter);
+  ellipse(random(width*0.6/8, width*1/8), random(height*10/40, height*30/40), measleDiameter, measleDiameter);ellipse(random(width*1/8, width*2/8), random(height*6/40, height*34/40), measleDiameter, measleDiameter);
+  ellipse(random(width*2/8, width*3/8), random(height*3/40, height*37/40), measleDiameter, measleDiameter);
+  ellipse(random(width*3/8, width*5/8), random(height*1/40, height*39/40), measleDiameter, measleDiameter);
+  ellipse(random(width*5/8, width*6/8), random(height*3/40, height*37/40), measleDiameter, measleDiameter);
+  ellipse(random(width*6/8, width*7/8), random(height*6/40, height*34/40), measleDiameter, measleDiameter);
+  ellipse(random(width*7/8, width*7.5/8), random(height*9/40, height*31/40), measleDiameter, measleDiameter);
   fill(255); //default, gray scale
   stroke(1); //default
 
@@ -46,4 +53,9 @@ void draw() {
   ellipse(rightEyeX, rightEyeY, eyeDiameter, eyeDiameter);
   triangle(nose1X, nose1Y, nose2X, nose2Y, nose3X, nose3Y);
   line(mouthLeftX, mouthLeftY, mouthRigthX, mouthRightY);
+}
+
+//Listener
+void mousePressed() {
+  
 }
