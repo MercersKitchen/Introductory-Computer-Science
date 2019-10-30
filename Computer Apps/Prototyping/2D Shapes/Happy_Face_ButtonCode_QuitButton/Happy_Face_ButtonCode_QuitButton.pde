@@ -60,6 +60,7 @@ void draw() {
 
 //Listener for my mouse
 void mousePressed() {
+  // Quit Button
   if (mouseX >= width*19/20  && mouseX <= width && mouseY >= height*0 && mouseY <= height*1/20) {
     exit();
   }
