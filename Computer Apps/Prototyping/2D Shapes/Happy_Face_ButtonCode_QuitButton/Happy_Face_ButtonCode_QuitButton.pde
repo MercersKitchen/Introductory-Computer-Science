@@ -8,6 +8,13 @@ void setup() {
   size(500, 500);
   //fullScreen();
 
+  //Font Setup
+  //String[] fontList = PFont.list(); //To list all fonts available on system
+  println("Start of Console");
+  //printArray(fontList); //For listing all possible fonts to choose, then createFont
+  
+  quitButtonSetup();
+
   leftEyeX = width*1/4;
   leftEyeY = height*1/4;
   rightEyeX = width*3/4;
@@ -33,12 +40,12 @@ void setup() {
 
   //Optional: ears, fill(),
 
-  rect(width*19/20, height*0, width*1/20, height*1/20);
-
   //noLoop();
 }
 
 void draw() {
+  quitButtonDraw();
+  
   color red = #FF0303;
   fill(red);
   noStroke(); //outline of measles
@@ -61,7 +68,5 @@ void draw() {
 //Listener for my mouse
 void mousePressed() {
   // Quit Button
-  if (mouseX >= width*19/20  && mouseX <= width && mouseY >= height*0 && mouseY <= height*1/20) {
-    exit();
-  }
+  quitButtonMouseCLicked();
 }
