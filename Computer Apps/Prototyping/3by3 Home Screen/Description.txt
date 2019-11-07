@@ -1,0 +1,8 @@
+
+Use Paperfolding to understand 3 by 3 chart and beginning "coordinates" (ratios)
+
+Build a button in each "square" to interact with other squares
+- understand the layering aspects of modifying the square and then redrawing the button
+
+Use 3x3 Board to review buttons, if statements, mouseX & mouseY variables, and inequalities
+Students to submit this by creating 9 different buttons that interact with each other (shapes, text, images)
