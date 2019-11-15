@@ -1,10 +1,3 @@
-/* To Do List
-Background Color, Images, Text, Buttons
-Create the 3x3 Grid first, then recreate with changes
-Then Move Code
-The clean code with Loops
-*/
-
 //Global Variables
 color circleRed = #FF0303, white=255, black=0;
 float ptDiameter, rectWidth, rectHeight;

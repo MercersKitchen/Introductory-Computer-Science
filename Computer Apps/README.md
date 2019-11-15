@@ -166,3 +166,17 @@ Final Exam Alternates
 Special Effects: on Processing Website, Image fades in and out
 
 ---
+
+3x3 Home Screen Assignment
+- Case Study with Paper Folding
+- Declare, Assign Variables differently, following different patterns
+- Draw dots and rectangles in `void draw() {}`
+  - Practice Sequencing with fill()
+-
+
+To Do List, create how the 3x3 Home Screen will look at the beginning
+- **Remember, will need to create how the home screen will look at the end of each button press**
+- Background Color, Images, Text, Buttons
+- Create the 3x3 Grid first, then recreate with changes
+- Then Move Code
+- The clean code with Loops
