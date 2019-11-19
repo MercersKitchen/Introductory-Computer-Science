@@ -6,3 +6,13 @@ Build a button in each "square" to interact with other squares
 
 Use 3x3 Board to review buttons, if statements, mouseX & mouseY variables, and inequalities
 Students to submit this by creating 9 different buttons that interact with each other (shapes, text, images)
+
+Follow Progression of Programs
+- learn to draw rectangles
+- create data structure for variables
+- learn ratios for fullScreen()
+- create button pressing code
+- create hover over effect using void draw() {}
+- instead of println, add effects through a Boolean Switch to void draw() {}
+
+Advanced: group code into sections
