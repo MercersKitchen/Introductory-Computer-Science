@@ -33,12 +33,12 @@ void setup() {
   }
   //pt2X = pt6X = pt10X = pt14X = width*1/3;
   //
-  for (int i=1; i<16; i = i+4) {
+  for (int i=3; i<16; i = i+4) {
     ptX[i] = width*2/3;
   }
   //pt3X = pt7X = pt11X = pt15X = width*2/3;
   //
-  for (int i=1; i<17; i = i+4) {
+  for (int i=4; i<17; i = i+4) {
     ptX[i] = width*3/3;
   }
   //pt4X = pt8X = pt12X = pt16X = width*3/3;
@@ -47,149 +47,146 @@ void setup() {
     ptY[i] = height*0;
   }
   // pt1Y = pt2Y = pt3Y = pt4Y = height*0;
-  for (int i=1; i<9; i = i++) {
+  for (int i=5; i<9; i = i++) {
     ptY[i] = height*1/3;
   }
   //pt5Y = pt6Y = pt7Y = pt8Y = height*1/3;/
   //
-  for (int i=1; i<5; i = i++) {
+  for (int i=9; i<13; i = i++) {
     ptY[i] = height*2/3;
   }
   // pt9Y = pt10Y = pt11Y = pt12Y = height*2/3;
   //
-  for (int i=1; i<5; i = i++) {
+  for (int i=13; i<17; i = i++) {
     ptX[i] = height*3/3;
   }
   //pt13Y = pt14Y = pt15Y = pt16Y= height*3/3;
   //
-  */
+  //Button to illustrate arithmetic
+  buttonX[1] = width * 1/3 * 1/3; //Section 1, subsection 1
+  buttonY[2] = height * 1/3 * 1/3; //Section 1, subsection 1
+  buttonWidth[3] = width * 1/3 * 1/3;
+  buttonHeight[4] = height * 1/3 * 1/3;
   //
   //Button to illustrate arithmetic
-  button1X = width * 1/3 * 1/3; //Section 1, subsection 1
-  button1Y = height * 1/3 * 1/3; //Section 1, subsection 1
-  button1Width = width * 1/3 * 1/3;
-  button1Height = height * 1/3 * 1/3;
+  buttonX[2] = width * 3/6; //Section 2, subsection 1: denominator is 3*2, numerator is counted
+  buttonY[2] = height * 2/6 ; //Section 2, subsection 0: denominator is 3*2, numerator is counted
+  buttonWidth[2] = width * 1/3 * 1/2;
+  buttonHeight[2] = height * 1/3 * 1/2;
   //
   //Button to illustrate arithmetic
-  button2X = width * 3/6; //Section 2, subsection 1: denominator is 3*2, numerator is counted
-  button2Y = height * 2/6 ; //Section 2, subsection 0: denominator is 3*2, numerator is counted
-  button2Width = width * 1/3 * 1/2;
-  button2Height = height * 1/3 * 1/2;
-  //
-  //Button to illustrate arithmetic
-  button3X = width * 11/15; //Section 3, subsection 2: denominator is 3*5, numerator is counted
-  button3Y = height * 14/16; //Section 3, subsection 4: denominator is 3*5, numerator is counted
-  button3Width = width * 1/3 * 1/5;
-  button3Height = height * 1/3 * 1/5;
+  buttonX[1] = width * 11/15; //Section 3, subsection 2: denominator is 3*5, numerator is counted
+  buttonY[2] = height * 14/16; //Section 3, subsection 4: denominator is 3*5, numerator is counted
+  buttonWidth[3] = width * 1/3 * 1/5;
+  buttonHeight[4] = height * 1/3 * 1/5;
 
   //Last Button to Test Concept of Buttons
-  button4X = width*11/15; 
-  button4Y = height*1/15; 
-  button4Width = width*3/15;
-  button4Height = height*3/15;
+  buttonX[4] = width*11/15; 
+  buttonY[4] = height*1/15; 
+  buttonWidth[4] = width*3/15;
+  buttonHeight[4] = height*3/15;
 }
 
+void draw () {
+  rect(0, 0, 50, 50);
+}
+
+/*
 void draw() {
-  //fill(white);
-  rect(pt1X, pt1Y, rectWidth, rectHeight);
-  //Bug: must press reset, Btn#4, each time to reset colour
-  if (turnOnYellow == true ) {
-    fill(yellow);
-  }
-  if (turnOnPink == true) {
-    fill(pink);
-  }
-  if (turnOnBrown == true) {
-    fill(brown);
-  }
-  rect(pt2X, pt2Y, rectWidth, rectHeight);
-  fill(white);
-  rect(pt3X, pt3Y, rectWidth, rectHeight);
-  //
-  for (int i=5; i<8; i++) {
-    rect(ptiX, ptiY, rectWidth, rectHeight);
-  }
-  /* Summarized in FOR Iteration
-   
-   //
-   rect(pt5X, pt5Y, rectWidth, rectHeight);
-   rect(pt6X, pt6Y, rectWidth, rectHeight);
-   rect(pt7X, pt7Y, rectWidth, rectHeight);
-   //
-   rect(pt9X, pt9Y, rectWidth, rectHeight);
-   rect(pt10X, pt10Y, rectWidth, rectHeight);
-   rect(pt11X, pt11Y, rectWidth, rectHeight);
-   */
-  //
-  //Button Rectangles
-  if ( mouseX>=button1X && mouseX<=button1X+button1Width && mouseY>=button1Y && mouseY<=button1Y+button1Height) {
-    fill(yellow);
-    rect(button1X, button1Y, button1Width, button1Height);
-  } else {
-    fill(black);
-    rect(button1X, button1Y, button1Width, button1Height);
-  }
-  if ( mouseX>=button2X && mouseX<=button2X+button2Width && mouseY>=button2Y && mouseY<=button2Y+button2Height) {
-    fill(yellow);
-    rect(button2X, button2Y, button2Width, button2Height);
-  } else {
-    fill(black);
-    rect(button2X, button2Y, button2Width, button2Height);
-  }
-  if ( mouseX>=button3X && mouseX<=button3X+button3Width && mouseY>=button3Y && mouseY<=button3Y+button3Height) {
-    fill(yellow);
-    rect(button3X, button3Y, button3Width, button3Height);
-  } else {
-    fill(black);
-    rect(button3X, button3Y, button3Width, button3Height);
-  }
-  if ( mouseX>=button4X && mouseX<=button4X+button4Width && mouseY>=button4Y && mouseY<=button4Y+button4Height) {
-    fill(yellow);
-    rect(button4X, button4Y, button4Width, button4Height);
-  } else {
-    fill(black);
-    rect(button4X, button4Y, button4Width, button4Height);
-  }
-  fill(black); //Reset all IF-ELSE
-  //
-  ellipse(pt1X, pt1Y, ptDiameter, ptDiameter);
-  ellipse(pt2X, pt2Y, ptDiameter, ptDiameter);
-  ellipse(pt3X, pt3Y, ptDiameter, ptDiameter);
-  ellipse(pt5X, pt5Y, ptDiameter, ptDiameter);
-  ellipse(pt6X, pt6Y, ptDiameter, ptDiameter);
-  ellipse(pt7X, pt7Y, ptDiameter, ptDiameter);
-  ellipse(pt9X, pt9Y, ptDiameter, ptDiameter);
-  ellipse(pt10X, pt10Y, ptDiameter, ptDiameter);
-  ellipse(pt11X, pt11Y, ptDiameter, ptDiameter);
-  //
-  fill(circleRed);
-  ellipse(pt4X, pt4Y, ptDiameter, ptDiameter);
-  ellipse(pt8X, pt8Y, ptDiameter, ptDiameter);
-  ellipse(pt12X, pt12Y, ptDiameter, ptDiameter);
-  ellipse(pt13X, pt13Y, ptDiameter, ptDiameter);
-  ellipse(pt14X, pt14Y, ptDiameter, ptDiameter);
-  ellipse(pt15X, pt15Y, ptDiameter, ptDiameter);
-  ellipse(pt16X, pt16Y, ptDiameter, ptDiameter);
-  fill(white);
-}
-
-void mousePressed() {
-  if ( mouseX>=button1X && mouseX<=button1X+button1Width && mouseY>=button1Y && mouseY<=button1Y+button1Height) {
-    println("Btn 1 activated");
-    turnOnYellow = true;
-  }
-  if ( mouseX>=button2X && mouseX<=button2X+button2Width && mouseY>=button2Y && mouseY<=button2Y+button2Height) {
-    println("Btn 2 activated");
-    turnOnPink = true;
-  }
-  if ( mouseX>=button3X && mouseX<=button3X+button3Width && mouseY>=button3Y && mouseY<=button3Y+button3Height) {
-    println("Btn 3 activated");
-    turnOnBrown = true;
-  }
-  if ( mouseX>=button4X && mouseX<=button4X+button4Width && mouseY>=button4Y && mouseY<=button4Y+button4Height) {
-    println("Btn 4 activated");
-    turnOnYellow = false;
-    turnOnPink = false;
-    turnOnBrown = false;
-  }
-}
+ //fill(white);
+ rect(ptX[1], ptY[1], rectWidth, rectHeight); //FOR will not work with parameters
+ //Bug: must press reset, Btn#4, each time to reset colour
+ if (turnOnYellow == true ) {
+ fill(yellow);
+ }
+ if (turnOnPink == true) {
+ fill(pink);
+ }
+ if (turnOnBrown == true) {
+ fill(brown);
+ }
+ rect(ptX[2], ptY[2], rectWidth, rectHeight);
+ fill(white);
+ rect(ptX[3], ptY[3], rectWidth, rectHeight);
+ //
+ rect(ptX[5], ptY[5], rectWidth, rectHeight);
+ rect(ptX[6], ptY[6], rectWidth, rectHeight);
+ rect(ptX[7], ptY[7], rectWidth, rectHeight);
+ //
+ rect(ptX[9], ptY[9], rectWidth, rectHeight);
+ rect(ptX[10], ptY[10], rectWidth, rectHeight);
+ rect(ptX[11], ptY[11], rectWidth, rectHeight);
+ //
+ //Button Rectangles
+ if ( mouseX>=buttonX[1] && mouseX<=buttonX[1]+buttonWidth[1] && mouseY>=buttonY[1] && mouseY<=buttonY[1]+buttonHeight[1] ) {
+ fill(yellow);
+ rect(buttonX[1], buttonY[1], buttonWidth[1], buttonHeight[1]);
+ } else {
+ fill(black);
+ rect(buttonX[1], buttonY[1], buttonWidth[1], buttonHeight[1]);
+ }
+ if ( mouseX>=buttonX[2] && mouseX<=buttonX[2]+buttonWidth[2] && mouseY>=buttonY[2] && mouseY<=buttonY[2]+buttonHeight[2] ) {
+ fill(yellow);
+ rect(buttonX[2], buttonY[2], buttonWidth[2], buttonHeight[2]);
+ } else {
+ fill(black);
+ rect(buttonX[2], buttonY[2], buttonWidth[2], buttonHeight[2]);
+ }
+ if ( mouseX>=buttonX[3] && mouseX<=buttonX[3]+buttonWidth[3] && mouseY>=buttonX[3] && mouseY<=buttonX[3]+buttonHeight[3] ) {
+ fill(yellow);
+ rect(buttonX[3], buttonX[3], buttonWidth[3], buttonHeight[3]);
+ } else {
+ fill(black);
+ rect(buttonX[3], buttonY[3], buttonWidth[3], buttonHeight[3]);
+ }
+ if ( mouseX>=buttonX[4] && mouseX<=buttonX[4]+buttonWidth[4] && mouseY>=buttonY[4] && mouseY<=buttonY[4]+buttonHeight[4] ) {
+ fill(yellow);
+ rect(buttonX[4], buttonY[4], buttonWidth[4], buttonHeight[4]);
+ } else {
+ fill(black);
+ rect(buttonX[4], buttonY[4], buttonWidth[4], buttonHeight[4]);
+ }
+ fill(black); //Reset all IF-ELSE
+ //
+ ellipse(ptX[1], ptY[1], ptDiameter, ptDiameter);
+ ellipse(ptX[2], ptY[2], ptDiameter, ptDiameter);
+ ellipse(ptX[3], ptY[3], ptDiameter, ptDiameter);
+ ellipse(ptX[5], ptY[5], ptDiameter, ptDiameter);
+ ellipse(ptX[6], ptY[6], ptDiameter, ptDiameter);
+ ellipse(ptX[7], ptY[7], ptDiameter, ptDiameter);
+ ellipse(ptX[9], ptY[9], ptDiameter, ptDiameter);
+ ellipse(ptX[10], ptY[10], ptDiameter, ptDiameter);
+ ellipse(ptX[11], ptY[11], ptDiameter, ptDiameter);
+ //
+ fill(circleRed);
+ ellipse(ptX[4], ptY[4], ptDiameter, ptDiameter);
+ ellipse(ptX[8], ptY[8], ptDiameter, ptDiameter);
+ ellipse(ptX[12], ptY[12], ptDiameter, ptDiameter);
+ ellipse(ptX[13], ptY[13], ptDiameter, ptDiameter);
+ ellipse(ptX[14], ptY[14], ptDiameter, ptDiameter);
+ ellipse(ptX[15], ptY[15], ptDiameter, ptDiameter);
+ ellipse(ptX[16], ptY[16], ptDiameter, ptDiameter);
+ fill(white);
+ }
+ 
+ void mousePressed() {
+ if ( mouseX>=buttonX[1] && mouseX<=buttonX[1]+buttonWidth[1] && mouseY>=buttonY[1] && mouseY<=buttonY[1]+buttonHeight[1] ) {
+ println("Btn 1 activated");
+ turnOnYellow = true;
+ }
+ if ( mouseX>=buttonX[2] && mouseX<=buttonX[2]+buttonWidth[2] && mouseY>=buttonY[2] && mouseY<=buttonY[2]+buttonHeight[2] ) {
+ println("Btn 2 activated");
+ turnOnPink = true;
+ }
+ if ( mouseX>=buttonX[3] && mouseX<=buttonX[3]+buttonWidth[3] && mouseY>=buttonX[3] && mouseY<=buttonX[3]+buttonHeight[3] ) {
+ println("Btn 3 activated");
+ turnOnBrown = true;
+ }
+ if ( mouseX>=buttonX[4] && mouseX<=buttonX[4]+buttonWidth[4] && mouseY>=buttonY[4] && mouseY<=buttonY[4]+buttonHeight[4] ) {
+ println("Btn 4 activated");
+ turnOnYellow = false;
+ turnOnPink = false;
+ turnOnBrown = false;
+ }
+ }
+ */
