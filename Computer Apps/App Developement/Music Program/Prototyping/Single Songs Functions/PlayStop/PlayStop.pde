@@ -17,7 +17,7 @@ void setup() {
   song1 = minim.loadFile("groove.mp3");
 
   println("Start of Console");
-  println("Click the Console to Finish Starting this program");
+  println("Click the Canvas to Finish Starting this program");
   println("Press P to Play and Pause, will rewind when at the end");
   println("Press S to Stop and rewind to the beginning");
 }

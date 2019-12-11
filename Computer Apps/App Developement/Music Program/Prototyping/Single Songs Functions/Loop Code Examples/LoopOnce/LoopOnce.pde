@@ -9,7 +9,7 @@ import ddf.minim.ugens.*;
 //Global Variables
 Minim minim;
 AudioPlayer song1;
-int loopOnce = 1;
+int loopIntNum = 1; //Able to connect this variable to buttons, increasing the loop number
 
 void setup() {
   //size(): Console output, not visual data, text promptos only, not complete yet
@@ -29,5 +29,5 @@ void mousePressed() {
 }
 
 void keyPressed() {
-  if ( key == 'l' || key == 'L') song1.loop(loopOnce); //single line IF, actually plays the song twice, once to start, once to loop
+  if ( key == 'l' || key == 'L') song1.loop(loopIntNum); //single line IF, actually plays the song twice, once to start, once to loop
 }
