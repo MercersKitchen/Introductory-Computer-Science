@@ -68,7 +68,7 @@ void keyPressed() {
       song1.play();
     }
   }
-  
+
   if ( key == 'f' || key == 'F') song1.skip(1000); // skip forward 1 second (1000 milliseconds), single IF Line
-    if ( key == 'r' || key == 'R') song1.skip(-1000); // skip backward 1 second (1000 milliseconds), single IF Line
+  if ( key == 'r' || key == 'R') song1.skip(-1000); // skip backward 1 second (1000 milliseconds), single IF Line
 }

@@ -5,4 +5,7 @@ Minim does not seem to work, verify this, 20191106
 Possible Music Player Behaviours
 - Play-Pause
 - Stop
-- Loop: once, defined number, infinite
+- Loop: once, defined number, infinite; controled by a variable and arrow keys
+- Meta Data: autopopulating varaibles using music files
+  - Able to use a IF-null catch to console-log which variables will show information
+- Forward, Reverse; controled by a variable and arrow keys
