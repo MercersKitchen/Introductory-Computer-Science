@@ -44,6 +44,14 @@ void setup() {
   println( "Track: ", songMetaData1.track() );
   println( "Genre: ", songMetaData1.genre() );
   println( "Encoded: ", songMetaData1.encoded() ); //how a computer reads the file
+  //
+  //Using a Catch for NULL Values in Variables
+  if(songMetaData1.title() == null) {
+    println( "\nTitle:", songMetaData1.title() );
+  } else {
+    println ("\nTitle: ", "null");
+  }
+  //
 }
 
 void draw() {
