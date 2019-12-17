@@ -8,4 +8,11 @@ Possible Music Player Behaviours
 - Loop: once, defined number, infinite; controled by a variable and arrow keys
 - Meta Data: autopopulating varaibles using music files
   - Able to use a IF-null catch to console-log which variables will show information
-- Forward, Reverse; controled by a variable and arrow keys
+- Forward, Reverse inside song; controled by a variable and arrow keys
+- Next, Back Song Buttons
+
+Advanced Features (Combinations of previous code)
+- Autoplaying: when current song finishes, automatically play the next song
+
+Other Advanced Features
+
