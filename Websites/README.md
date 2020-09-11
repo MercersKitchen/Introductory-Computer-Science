@@ -1,15 +1,13 @@
 # Introductory Websites
 Creating Static Pages using HTML and CSS
 
-**UNDER CONSTRUCTION**
-
+Goto: https://github.com/MercersKitchen/Webpages-Sites
+- HTML with inline CSS for Static Pages, include Java Checking Script
+- HTML with Separate CSS Files, interactive with JavaScript
+- HTML5 with server language like PHP
 
 ---
 
 # Ideas to Include
-
-https://github.com/MercersKitchen/Websites
-- Hosting a Server on a RPi
-
 
 ---
