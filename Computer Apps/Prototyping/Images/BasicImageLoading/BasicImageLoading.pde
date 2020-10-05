@@ -15,7 +15,7 @@ void setup() {
   image (pic, width*1/4, height*0/16, width*0.518, height*0.3233333); 
   
   rect(width*0, height*1/3, width*0.58139, width*0.58139); 
-  width*0, height*1/3, width, width
+  //width*0, height*1/3, width, width
   image (pic2, width*0, height*1/3, width*0.58139, width*0.58139); //width*0.5813
   // for some reason, the 
 }
