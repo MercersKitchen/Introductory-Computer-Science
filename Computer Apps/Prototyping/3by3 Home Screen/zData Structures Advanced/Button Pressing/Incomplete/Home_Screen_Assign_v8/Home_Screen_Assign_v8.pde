@@ -17,9 +17,14 @@ void setup() {
   rectHeight = height*1/3;
   //
   for (int i=1; i<=17; i++) { //ptX.length() not working
-  ptX[i] = width*((i-1)/3);
+  ptX[i+4] = width*((i-1)/3);
   } //End first FOR
-  //
+  /*
+  pt1X = pt5X = pt9X = pt13X = width*0;
+  pt2X = pt6X = pt10X = pt14X = width*1/3;
+  pt3X = pt7X = pt11X = pt15X = width*2/3;
+  pt4X = pt8X = pt12X = pt16X = width*3/3;
+  */
   /* Comment Out
    for (int i=1; i<14; i=i+4) {
    ptX[i] = width*0;
