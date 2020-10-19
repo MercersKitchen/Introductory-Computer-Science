@@ -5,7 +5,7 @@ import ddf.minim.signals.*;
 import ddf.minim.spi.*;
 import ddf.minim.ugens.*;
 
-//Gloabal Variables
+//Global Variables
 color white = #FFFFFF;
 Minim minim;
 AudioPlayer song1;
