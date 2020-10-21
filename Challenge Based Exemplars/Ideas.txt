@@ -1,0 +1,15 @@
+
+Computer Apps
+- LinkedIn Account (must be 16)
+- GitHub Account
+
+Create new respository, Share it with Mr. Mercer
+- Change the ReadMe.md file and add a message to Mr. Mercer
+- EMail the URL to Mr. Mercer
+
+Boilerplate for Processing to activate compiler
+
+How to you draw a rectangle in a Flat Program, boilerplate
+- ratios only, size() & fullSize()
+- specific space
+
