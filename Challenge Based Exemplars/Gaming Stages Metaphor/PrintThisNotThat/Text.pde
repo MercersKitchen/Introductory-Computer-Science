@@ -1,4 +1,4 @@
-String title= "Click Me";
+String buttonText= "Click Me";
 PFont titleFont;
 color purple = #2C08FF;
 
@@ -15,6 +15,6 @@ void textDraw() {
   textAlign (CENTER, CENTER); //Align X&Y, see Processing.org / Reference
   //Values: [LEFT | CENTER | RIGHT] & [TOP | CENTER | BOTTOM | BASELINE]
   textFont(titleFont, 20); //Change the number until it fits, largest font size
-  text(title, buttonX, buttonY, buttonWidth, buttonHeight);
+  text(buttonText, buttonX, buttonY, buttonWidth, buttonHeight);
   fill(255); //Reset to white for rest of the program
 }//End textDraw
