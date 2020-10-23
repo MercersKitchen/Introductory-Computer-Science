@@ -12,7 +12,8 @@ triangle()
 
 What do I need to know
 - type of parameter (int, long, float, double, color)
-- what parameter does
+- using debugging screen
+- what parameter does, how to count
 
 
 Related functions to explore

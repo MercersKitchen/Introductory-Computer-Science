@@ -82,7 +82,7 @@ Happy Face Measles with Button Code
 ---
 
 - Create Quit-Button, with ratios, linear program (Purpose: GUI Design)
-  - Start with Paper Folding Activity, try to get top left courner (same as X in WINDOWS)
+  - Start with Paper Folding Activity, try to get top left corner (same as X in WINDOWS)
 - Use the two programs to change develop understanding of Global Variables, setup(), draw(), and listener or mouseClick()
   - Variables used when code repeats (like circleDiamter for face, eyes, measles; red colour
   - Laying is emphasized with what shapes to draw first
