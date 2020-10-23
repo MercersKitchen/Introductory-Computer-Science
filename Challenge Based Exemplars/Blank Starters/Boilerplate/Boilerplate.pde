@@ -5,3 +5,7 @@ void setup() {
 }
 
 void draw() {}//End draw()
+
+void keyPressed() {}
+
+void mousePressed() {}

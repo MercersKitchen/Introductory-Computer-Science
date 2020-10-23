@@ -29,6 +29,7 @@ Extending "Drawing a Rectangle" to DIVs or Divisions in GUI
 - Draw images to a screen using aspect ratio
 
 Shifting to Dynamic Programming in Processing
+
 Assignment: 3 by 3 Home Screen
 - Introduce Modular Design
 - Poplution of Variables by FOR and automatic counting
@@ -36,22 +37,14 @@ Assignment: 3 by 3 Home Screen
   Adding Hoverover
 - Learn Global Variables, setup(), draw(), keyPressed(), mousePressed()
 
-
 Adding music controlled with keyboard
-- automatically, keyboard, button
+
 Adding sound effect - needs button
 
-Adding image
-Specific to PRocessing-Dynamic
+Specific to Processing-Dynamic: concept of line-by-line execution of code
 Layering within Measles (copy and paste or WHILE)
 Layering within setup() & draw()
 
-
-3 by 3 home screen
-
-Major Projects
-
-
-Additional 
+Additional Programs to Consider Here
 Scary Image
 Anything else from Proces
