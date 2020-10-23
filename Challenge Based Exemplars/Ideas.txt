@@ -1,4 +1,7 @@
 
+Purpose: coding to cell phones
+- http://ketai.org/
+
 Computer Apps
 - LinkedIn Account (must be 16)
 - GitHub Account
@@ -7,30 +10,42 @@ Create new respository, Share it with Mr. Mercer
 - Change the ReadMe.md file and add a message to Mr. Mercer
 - EMail the URL to Mr. Mercer
 
-Boilerplate for Processing to activate compiler
+What are the possible lines of code - jenga sort of game
 
-How to you draw a rectangle in a Flat Program, boilerplate
-- ratios only, size() & fullSize()
-- specific space
-- variables and naming, then populating
-- issue with size
+Prompts: will be tested on any size window and fullScreen (i.e. Find and Replace)
+- Draw a rectangle
+- Draw a Composite Shape
+- Create an illustion like a Snow Globe or Measeles on a Face
+- Add colour or randomized colour to these illsutrations
 
-Adding text
-- minimum code
+What these prompts should illustrate
+- how code will read like a book, probably paragraph
+- how drawing occurs on a coordinate plane but is controled by "paperfolding"
+- the importance of paper folding and Case Studies in GUI Design
 
-Adding images
-- minimum code
+Extending "Drawing a Rectangle" to DIVs or Divisions in GUI
+- Similar to Website Design
+- Draw text to a screen
+- Draw images to a screen using aspect ratio
+
+Shifting to Dynamic Programming in Processing
+Assignment: 3 by 3 Home Screen
+- Introduce Modular Design
+- Poplution of Variables by FOR and automatic counting
+- Creating a Button controled by a Boolean and IF
+  Adding Hoverover
+- Learn Global Variables, setup(), draw(), keyPressed(), mousePressed()
+
 
 Adding music controlled with keyboard
+- automatically, keyboard, button
+Adding sound effect - needs button
 
 Adding image
 Specific to PRocessing-Dynamic
 Layering within Measles (copy and paste or WHILE)
 Layering within setup() & draw()
-various 2D Shapes
-ramdom colours
-button
-hoverover
+
 
 3 by 3 home screen
 
