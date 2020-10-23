@@ -12,4 +12,31 @@ Boilerplate for Processing to activate compiler
 How to you draw a rectangle in a Flat Program, boilerplate
 - ratios only, size() & fullSize()
 - specific space
+- variables and naming, then populating
+- issue with size
 
+Adding text
+- minimum code
+
+Adding images
+- minimum code
+
+Adding music controlled with keyboard
+
+Adding image
+Specific to PRocessing-Dynamic
+Layering within Measles (copy and paste or WHILE)
+Layering within setup() & draw()
+various 2D Shapes
+ramdom colours
+button
+hoverover
+
+3 by 3 home screen
+
+Major Projects
+
+
+Additional 
+Scary Image
+Anything else from Proces
