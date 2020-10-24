@@ -12,6 +12,14 @@ Create new repository, Share it with Mr. Mercer
 - EMail the GitHub URL to Mr. Mercer
 - Introduce GitHub, Version Control Software, integrating App Development with Websites and Promotion ("Where do files live?")
 
+Case Studies
+- Hello World Text
+- Composite Images (Snow Globe, Measles, etc.)
+- 3 by 3 Assignment including random colour, text, and images
+- Drawing Program (including background song and sound effects using mouse)
+- Music Program (including sound effects using key board and mouse)
+- Final Project: using Ketai Library
+
 Prompts: will be tested on any size window and fullScreen (i.e. Find and Replace)
 - Hello World: getting to know the console with print("\n") and println()
   Additions: what else would you put on in the console to tell the world using \t and other character escapes
