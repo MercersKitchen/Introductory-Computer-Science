@@ -7,7 +7,7 @@ Computer Apps
 - LinkedIn Account (must be 16)
 - GitHub Account
 
-Create new respository, Share it with Mr. Mercer
+Create new repository, Share it with Mr. Mercer
 - Change the ReadMe.md file and add a message to Mr. Mercer
 - EMail the GitHub URL to Mr. Mercer
 - Introduce GitHub, Version Control Software, integrating App Development with Websites and Promotion ("Where do files live?")
@@ -18,15 +18,15 @@ Prompts: will be tested on any size window and fullScreen (i.e. Find and Replace
 - Note: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.)
   Then appear in canvas "exactly"
 - Draw a rectangle
-- Draw a Composite Shape using only rect values 
-  Learn that parameters can be formulae based on geomtery ratios
-- Create an illustion like a Snow Globe or Measeles on a Face
-  Note: for Measeles on a Face see layering lessons in Dynamic
+- Draw a Composite Shape using only rect values
+  Learn that parameters can be formulae based on geometry ratios
+- Create an illusion like a Snow Globe or Measles on a Face
+  Note: for Measles on a Face see layering lessons in Dynamic
 - Add colour or randomized colour to these illustrations
 
 What these prompts should illustrate
 - how code will read like a book, probably paragraph
-- how drawing occurs on a coordinate plane but is controled by "paperfolding"
+- how drawing occurs on a coordinate plane but is controlled by "paperfolding"
 - the importance of paper folding and Case Studies in GUI Design
 
 Extending "Drawing a Rectangle" to DIVs or Divisions in GUI
@@ -38,9 +38,9 @@ Shifting to Dynamic Programming in Processing
 
 Assignment: 3 by 3 Home Screen
 - Introduce Modular Design
-- Poplution of Variables by FOR and automatic counting
-- Creating a Button controled by a Boolean and IF
-  Adding Hoverover
+- Population of Variables by FOR and automatic counting
+- Creating a Button controlled by a Boolean and IF
+  Adding Hover over
 - Learn Global Variables, setup(), draw(), keyPressed(), mousePressed()
 
 Adding music controlled with keyboard
@@ -53,4 +53,4 @@ Layering within setup() & draw()
 
 Additional Programs to Consider Here
 Scary Image
-Anything else from Proces
+Anything else from Process.org website exemplars or tutorials
