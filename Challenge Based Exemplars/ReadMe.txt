@@ -1,5 +1,7 @@
 
 Turn this into Gameification for CS20 Reivew and online DIY
+- Include Points
+
 
 Review Google Drive for coding examples and other ideas
 
