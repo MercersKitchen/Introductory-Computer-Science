@@ -11,4 +11,6 @@ How do more advanced courses add to this?
   Creating procedures, even for single lines
   Creating procedures: grouping lines of code
   Autotext algorithms, etc.
-  
+
+
+Note: With FOR Population after music player in arrays & two types of IF, more complicated code can be written
