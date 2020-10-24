@@ -1,4 +1,6 @@
 
+This could be an app that gamifies how to create an app
+
 Turn this into Gameification for CS20 Reivew and online DIY
 - Include Points
 - Include Google Forms to Spreadsheet to print & verify with students, Spreadsheets will also add stuff up

@@ -14,6 +14,7 @@ Create new respository, Share it with Mr. Mercer
 
 Prompts: will be tested on any size window and fullScreen (i.e. Find and Replace)
 - Hello World: getting to know the console with print("\n") and println()
+  Additions: what else would you put on in the console to tell the world using \t and other character escapes
 - Note: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.)
   Then appear in canvas "exactly"
 - Draw a rectangle
