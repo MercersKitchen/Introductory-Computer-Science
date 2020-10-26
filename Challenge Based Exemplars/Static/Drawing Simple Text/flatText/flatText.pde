@@ -1,13 +1,14 @@
-//fullScreen();
-size(500, 600);
 String title= "Wahoo!";
 PFont titleFont;
-//String[] fontList = PFont.list(); //To list all fonts available on system
-println("Start of Console");
-//printArray(fontList); //For listing all possible fonts to choose, then createFont
-titleFont = createFont ("Harrington", 55); //Must also Tools / Create Font / Find Font / Do Not Press "OK"
 color purple = #2C08FF;
 
+//fullScreen();
+size(500, 600);
+println("Start of Console");
+//String[] fontList = PFont.list(); //To list all fonts available on system
+//printArray(fontList); //For listing all possible fonts to choose, then createFont
+titleFont = createFont ("Harrington", 55); //Must also Tools / Create Font / Find Font / Do Not Press "OK"
+//
 rect(width*1/4, height*0, width*1/2, height*1/10);
 fill(purple); //Ink, hexidecimal copied from Color Selector
 textAlign (CENTER, CENTER); //Align X&Y, see Processing.org / Reference
