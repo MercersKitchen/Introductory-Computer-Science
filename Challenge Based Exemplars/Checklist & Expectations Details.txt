@@ -1,0 +1,75 @@
+
+Main Project: Android App (purpose is coding to cell phones)
+- http://ketai.org/
+- control permissions and flow of personal data
+- Main Project: After reviewing what is possible with Ketai.org, design a cell phone app for your main project
+  - GUI
+  - List Behaviors and expectations
+  - List data you will need to code
+  - What will your touch screen and physical buttons be doing
+  - List the other interactions this app will have and when these will be available (clean & minimal GUI)
+
+Creating Computer Environment
+- GitHub Account
+- LinkedIn Account, connect with others (must be 16)
+
+New Repository and communication with Mr. Mercer
+- Option: use GitHub Classroom
+- Change the ReadMe.md file and add a message to Mr. Mercer
+- EMail the GitHub URL to Mr. Mercer
+- Introduce GitHub, Version Control Software, integrating App Development with Websites and Promotion ("Where do files live?")
+
+Complete Case Studies, what users will see
+1. Hello World & Simple Counting
+  - See Algorithms
+  - getting to know the console with print("\n") and println()
+  - Additions: what else would you put on in the console to tell the world using \t and other character escapes
+- Note for assignments: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.), then appear in canvas "exactly"
+2. Draw a rectangle & include all values as if on coordinate plane (ratios better then #'s)
+  - Introduce colour or randomized colour here to be used for future assignments
+  - Extending "Drawing a Rectangle" to DIVs or Divisions in GUI
+  - Similar to Website Design
+3. Draw text to a screen
+4. Draw images to a screen using aspect ratio (collage project)
+  - How to Create a paragraph with images
+5. Composite Images (Snow Globe, Measles, etc.)
+  - Composite Shape using only rect values & sequential layers in visual data
+  - Learn that parameters can be formulae based on geometry ratios
+6. 3 by 3 Assignment including random colour, text, and images
+  - - Introduce Modular Design
+  - Population of Variables by FOR and automatic counting
+  - Creating a Button controlled by a Boolean and IF
+    Adding Hover over
+  - Learn Global Variables, setup(), draw(), keyPressed(), mousePressed()
+7. Drawing Program (including background song and sound effects using mouse)
+8. Music Program (including sound effects using key board and mouse)
+9. Final Project: using Ketai Library
+
+All programs will be tested on any size window and fullScreen (i.e. Find and Replace)
+
+What these prompts should illustrate
+- how code will read like a book, probably paragraph
+- how drawing occurs on a coordinate plane but is controlled by "paperfolding"
+- the importance of paper folding and Case Studies in GUI Design
+
+Flat Coding Snippets: exemplar assignments
+- Hello World
+- Draw a Rectangle in Canvas exactly as a paper Case Study (paper folding is acceptable)
+- Draw a composite shape using only rect parameters as variables
+  - Layering within Measles (sequential code with copy and paste or WHILE Infinite Loop)
+- Draw text
+- Draw image & aspect ratios
+
+Dynamic Coding Snippets: exemplar assignments
+Purpose: introductions to FOR & IF
+- Quit Button (illustration of code to copy and paste into all programs)
+- Draw a button to control two events ("Do this Not That")
+- Adding single song controlled by keyboard or multiple buttons
+- Adding sound effect controlled by single button that matches visual data metaphor
+- Draw an illusion like "Snow or Rain in Localized Space" or "Measles on a Face"
+  - Layering within setup() & draw()
+- 3 x 3 Summary Assignment
+
+Additional Programs to Consider Here
+Scary Image
+Anything else from Process.org website exemplars or tutorials
