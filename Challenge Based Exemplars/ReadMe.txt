@@ -1,4 +1,6 @@
 
+Group with Android-side-loading
+
 This could be an app that gamifies how to create an app
 
 Turn this into Gamification for CS20 Review and online DIY
