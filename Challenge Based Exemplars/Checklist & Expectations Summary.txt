@@ -1,5 +1,7 @@
 
 Main Project: Android App
+- Prototyping means dealing with the smallest amount of code, then building something more 
+  modularly
 
 Creating Computer Environment
 - GitHub Account
