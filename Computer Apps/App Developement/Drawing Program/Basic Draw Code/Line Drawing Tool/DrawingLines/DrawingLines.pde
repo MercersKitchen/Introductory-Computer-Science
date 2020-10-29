@@ -11,7 +11,10 @@ void setup() {
   drawingSurfaceY = height*0;
   drawingSurfaceWidth = width*3/4;
   drawingSurfaceHeight = height*4/5;
-
+  //
+  ink = black; // example to change ink
+  drawingDiameter = width*1/100;
+  //
   rect(drawingSurfaceX, drawingSurfaceY, drawingSurfaceWidth, drawingSurfaceHeight);
 }
 
@@ -33,7 +36,5 @@ void mousePressed() {
     } else {
       draw = false;
     }
-    ink = black; // example to change ink
-    drawingDiameter = width*1/100;
   }
 }
