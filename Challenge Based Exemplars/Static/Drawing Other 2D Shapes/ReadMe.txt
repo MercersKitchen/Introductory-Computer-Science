@@ -9,6 +9,7 @@ https://processing.org/reference/
 
 line()
 ellipse(): circle, ellipse
+  - Note: to draw a perfect circel start with perpendicualr diameters
 point()
 quad()
 square()
