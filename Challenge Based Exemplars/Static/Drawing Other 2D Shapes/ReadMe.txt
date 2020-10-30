@@ -1,4 +1,9 @@
 
+Illustratinve Example: Hoverover in Chrome
+- image or tile
+- Highlights a circle
+- Click is in a rectangle or a square
+
 Other 2D Primitives
 https://processing.org/reference/
 
