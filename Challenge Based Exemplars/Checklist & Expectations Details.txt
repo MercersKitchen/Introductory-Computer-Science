@@ -18,6 +18,11 @@ New Repository and communication with Mr. Mercer
 - Change the ReadMe.md file and add a message to Mr. Mercer
 - EMail the GitHub URL to Mr. Mercer
 - Introduce GitHub, Version Control Software, integrating App Development with Websites and Promotion ("Where do files live?")
+- Scavenger hunt: how do personal networks work (desktop), and WANs
+  Where are GitHub Servers? WHich countries and locations?
+  How far does data travel with every saving of code?
+  What would it mean to have a GitHub server in your home?
+    (permissions and phsycial data updating)
 
 Complete Case Studies, what users will see
 1. Hello World & Simple Counting
