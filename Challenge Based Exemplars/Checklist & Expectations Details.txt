@@ -1,7 +1,6 @@
 
 Main Project: Android App (purpose is coding to cell phones)
-- http://ketai.org/
-- control permissions and flow of personal data
+
 - Main Project: After reviewing what is possible with Ketai.org, design a cell phone app for your main project
   - GUI
   - List Behaviors and expectations

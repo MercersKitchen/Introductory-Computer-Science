@@ -1,11 +1,4 @@
 
-Note: how does AP work into this?
-
-Main Project: Android App
-- Prototyping means dealing with the smallest amount of code, then building something more 
-  modularly
-- Introduction to device permissions & data ownership
-
 Creating Computer Environment
 - GitHub Account
 - LinkedIn Account, connect with others
@@ -23,7 +16,7 @@ Complete Case Studies, what users will see (once graded
 
 Flat Coding Snippets: exemplar assignments
 - Hello World
-- Draw a Rectangle in Canvas exactly as a paper Case Study (paper folding is acceptable)
+- 
 - Draw a composite shape using only rect parameters as variables
   - Layering within Measles (sequential code with copy and paste or WHILE Infinite Loop)
 - Draw text
