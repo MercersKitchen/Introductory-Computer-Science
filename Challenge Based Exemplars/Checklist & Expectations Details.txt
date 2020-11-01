@@ -2,33 +2,21 @@
 Main Project: Android App (purpose is coding to cell phones)
 
 - Main Project: After reviewing what is possible with Ketai.org, design a cell phone app for your main project
-  - GUI
-  - List Behaviors and expectations
-  - List data you will need to code
-  - What will your touch screen and physical buttons be doing
-  - List the other interactions this app will have and when these will be available (clean & minimal GUI)
 
 Creating Computer Environment
-- GitHub Account
-- LinkedIn Account, connect with others (must be 16)
 
 New Repository and communication with Mr. Mercer
-- Option: use GitHub Classroom
 - Change the ReadMe.md file and add a message to Mr. Mercer
 - EMail the GitHub URL to Mr. Mercer
-- Introduce GitHub, Version Control Software, integrating App Development with Websites and Promotion ("Where do files live?")
-- Scavenger hunt: how do personal networks work (desktop), and WANs
-  Where are GitHub Servers? WHich countries and locations?
-  How far does data travel with every saving of code?
-  What would it mean to have a GitHub server in your home?
-    (permissions and phsycial data updating)
+-
+
 
 Complete Case Studies, what users will see
 1. Hello World & Simple Counting
-  - See Algorithms
-  - getting to know the console with print("\n") and println()
-  - Additions: what else would you put on in the console to tell the world using \t and other character escapes
-- Note for assignments: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.), then appear in canvas "exactly"
+  -
+  -
+  -
+- 
 2. Draw a rectangle & include all values as if on coordinate plane (ratios better then #'s)
   - Introduce colour or randomized colour here to be used for future assignments
   - Extending "Drawing a Rectangle" to DIVs or Divisions in GUI

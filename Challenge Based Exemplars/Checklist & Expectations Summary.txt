@@ -1,11 +1,4 @@
 
-Creating Computer Environment
-- GitHub Account
-- LinkedIn Account, connect with others
-
-New Repository and communication with Mr. Mercer
-- Option: use GitHub Classroom
-
 Complete Case Studies, what users will see (once graded
 - Hello World & Simple Counting
 - Composite Images (Snow Globe, Measles, etc.)
@@ -16,7 +9,7 @@ Complete Case Studies, what users will see (once graded
 
 Flat Coding Snippets: exemplar assignments
 - Hello World
-- 
+-
 - Draw a composite shape using only rect parameters as variables
   - Layering within Measles (sequential code with copy and paste or WHILE Infinite Loop)
 - Draw text
