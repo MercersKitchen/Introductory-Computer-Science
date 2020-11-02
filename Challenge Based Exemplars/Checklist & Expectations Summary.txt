@@ -1,15 +1,9 @@
 
 Complete Case Studies, what users will see (once graded
-- Hello World & Simple Counting
-- Composite Images (Snow Globe, Measles, etc.)
-- 3 by 3 Assignment including random colour, text, and images
-- Drawing Program (including background song and sound effects using mouse)
-- Music Program (including sound effects using key board and mouse)
-- Final Project: using Ketai Library
+
 
 Flat Coding Snippets: exemplar assignments
 - Hello World
--
 - Draw a composite shape using only rect parameters as variables
   - Layering within Measles (sequential code with copy and paste or WHILE Infinite Loop)
 - Draw text
