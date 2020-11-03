@@ -1,8 +1,4 @@
 
-2. Draw a rectangle & include all values as if on coordinate plane (ratios better then #'s)
-  - Introduce colour or randomized colour here to be used for future assignments
-  - Extending "Drawing a Rectangle" to DIVs or Divisions in GUI
-  - Similar to Website Design
 3. Draw text to a screen
 4. Draw images to a screen using aspect ratio (collage project)
   - How to Create a paragraph with images
