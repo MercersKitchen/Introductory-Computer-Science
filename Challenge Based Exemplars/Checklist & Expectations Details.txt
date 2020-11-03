@@ -1,21 +1,4 @@
 
-Main Project: Android App (purpose is coding to cell phones)
-
-- Main Project: After reviewing what is possible with Ketai.org, design a cell phone app for your main project
-
-
-New Repository and communication with Mr. Mercer
-- Change the ReadMe.md file and add a message to Mr. Mercer
-- EMail the GitHub URL to Mr. Mercer
--
-
-
-Complete Case Studies, what users will see
-1. Hello World & Simple Counting
-  -
-  -
-  -
-- 
 2. Draw a rectangle & include all values as if on coordinate plane (ratios better then #'s)
   - Introduce colour or randomized colour here to be used for future assignments
   - Extending "Drawing a Rectangle" to DIVs or Divisions in GUI

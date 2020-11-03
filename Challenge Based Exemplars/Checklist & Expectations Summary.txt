@@ -1,14 +1,4 @@
 
-Complete Case Studies, what users will see (once graded
-
-
-Flat Coding Snippets: exemplar assignments
-- Hello World
-- Draw a composite shape using only rect parameters as variables
-  - Layering within Measles (sequential code with copy and paste or WHILE Infinite Loop)
-- Draw text
-- Draw image & aspect ratios
-
 Dynamic Coding Snippets: exemplar assignments
 Purpose: introductions to FOR & IF
 - Quit Button (illustration of code to copy and paste into all programs)
