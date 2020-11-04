@@ -1,5 +1,4 @@
 
-3. Draw text to a screen
 4. Draw images to a screen using aspect ratio (collage project)
   - How to Create a paragraph with images
 5. Composite Images - finish Repository in Android App
@@ -25,7 +24,6 @@ Flat Coding Snippets: exemplar assignments
 - Draw a Rectangle in Canvas exactly as a paper Case Study (paper folding is acceptable)
 - Draw a composite shape using only rect parameters as variables
   - Layering within Measles (sequential code with copy and paste or WHILE Infinite Loop)
-- Draw text
 - Draw image & aspect ratios
 
 Dynamic Coding Snippets: exemplar assignments
