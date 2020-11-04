@@ -13,5 +13,5 @@ Final Projects
 - Drawing Program (repetitions of above)
 - Music Program (introduction to arrays, indices, simple counting & nested IFs)
 Additional Programs to Consider Here
-Scary Image
+
 Anything else from Process.org website exemplars or tutorials

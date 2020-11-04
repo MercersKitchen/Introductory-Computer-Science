@@ -1,6 +1,4 @@
 
-4. Draw images to a screen using aspect ratio (collage project)
-  - How to Create a paragraph with images
 5. Composite Images - finish Repository in Android App
 6. 3 by 3 Assignment including random colour, text, and images
   - - Introduce Modular Design
