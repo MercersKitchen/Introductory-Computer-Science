@@ -13,10 +13,7 @@
 9. Final Project: using Ketai Library
 
 
-What these prompts should illustrate
-- how code will read like a book, probably paragraph
-- how drawing occurs on a coordinate plane but is controlled by "paperfolding"
-- the importance of paper folding and Case Studies in GUI Design
+
 
 Dynamic Coding Snippets: exemplar assignments
 Purpose: introductions to FOR & IF
