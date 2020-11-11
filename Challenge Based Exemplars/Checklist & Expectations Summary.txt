@@ -1,7 +1,6 @@
 
 Dynamic Coding Snippets: exemplar assignments
 Purpose: introductions to FOR & IF
-- Quit Button (illustration of code to copy and paste into all programs)
 - Draw a button to control two events ("Do this Not That")
 - Adding single song controlled by keyboard or multiple buttons
 - Adding sound effect controlled by single button that matches visual data metaphor

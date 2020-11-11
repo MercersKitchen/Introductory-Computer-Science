@@ -1,28 +1,22 @@
 
-5. Composite Images - finish Repository in Android App
 6. 3 by 3 Assignment including random colour, text, and images
   - - Introduce Modular Design
   - Population of Variables by FOR and automatic counting
   - Creating a Button controlled by a Boolean and IF
     Adding Hover over
   - Learn Global Variables, setup(), draw(), keyPressed(), mousePressed()
+
 7. Drawing Program (including background song and sound effects using mouse)
+
 8. Music Program (including sound effects using key board and mouse)
+
 9. Final Project: using Ketai Library
 
-All programs will be tested on any size window and fullScreen (i.e. Find and Replace)
 
 What these prompts should illustrate
 - how code will read like a book, probably paragraph
 - how drawing occurs on a coordinate plane but is controlled by "paperfolding"
 - the importance of paper folding and Case Studies in GUI Design
-
-Flat Coding Snippets: exemplar assignments
-- Hello World
-- Draw a Rectangle in Canvas exactly as a paper Case Study (paper folding is acceptable)
-- Draw a composite shape using only rect parameters as variables
-  - Layering within Measles (sequential code with copy and paste or WHILE Infinite Loop)
-- Draw image & aspect ratios
 
 Dynamic Coding Snippets: exemplar assignments
 Purpose: introductions to FOR & IF
